@@ -1,0 +1,162 @@
+[
+    [
+        "Alan",
+        {
+            "tipo de helado": "yogurt",
+            "sabores": [
+                "chocolate",
+                "chocolate"
+            ],
+            "envase": "vaso",
+            "toppings": [
+                "ninguno"
+            ],
+            "precio": 110
+        }
+    ],
+    [
+        "Roberto",
+        {
+            "tipo de helado": "yogurt",
+            "sabores": [
+                "chocolate",
+                "chocolate"
+            ],
+            "envase": "vaso",
+            "toppings": [
+                "granola"
+            ],
+            "precio": 120
+        },
+        {
+            "tipo de helado": "cremoso",
+            "sabores": [
+                "oreo con chocolate",
+                "oreo con chocolate"
+            ],
+            "envase": "cono",
+            "toppings": [
+                "ninguno"
+            ],
+            "precio": 95
+        },
+        {
+            "tipo de helado": "cremoso especial",
+            "sabores": [
+                "chocolate amargo",
+                "cajeta"
+            ],
+            "envase": "canastilla",
+            "toppings": [
+                "granola",
+                "chocolate liquido"
+            ],
+            "precio": 170
+        },
+        {
+            "tipo de helado": "cremoso",
+            "sabores": [
+                "oreo con chocolate",
+                "oreo con chocolate"
+            ],
+            "envase": "cono",
+            "toppings": [
+                "ninguno"
+            ],
+            "precio": 95
+        },
+        {
+            "tipo de helado": "cremoso",
+            "sabores": [
+                "chocolate",
+                "rompope"
+            ],
+            "envase": "cono",
+            "toppings": [
+                "zarzamora",
+                "fresa"
+            ],
+            "precio": 115
+        }
+    ],
+    [
+        "Aris",
+        {
+            "tipo de helado": "yogurt",
+            "sabores": [
+                "chocolate",
+                "vainilla"
+            ],
+            "envase": "canastilla",
+            "toppings": [
+                "granola",
+                "chocolate liquido"
+            ],
+            "precio": 150
+        }
+    ],
+    [
+        "Gera",
+        {
+            "tipo de helado": "cremoso especial",
+            "sabores": [
+                "tequila",
+                "chocolate amargo",
+                "crema irland\u00e9s",
+                "mora azul"
+            ],
+            "envase": "canastilla",
+            "toppings": [
+                "rompope",
+                "chispas de chocolate"
+            ],
+            "precio": 310
+        }
+    ],
+    [
+        "David",
+        {
+            "tipo de helado": "cremoso",
+            "sabores": [
+                "rompope",
+                "chocolate",
+                "oreo con chocolate"
+            ],
+            "envase": "cono",
+            "toppings": [
+                "ninguno"
+            ],
+            "precio": 135
+        },
+        {
+            "tipo de helado": "yogurt",
+            "sabores": [
+                "chocolate",
+                "chocolate"
+            ],
+            "envase": "cono",
+            "toppings": [
+                "chocolate liquido"
+            ],
+            "precio": 125
+        }
+    ],
+    [
+        "Luis",
+        {
+            "tipo de helado": "cremoso especial",
+            "sabores": [
+                "menta con chocolate",
+                "chocolate belga",
+                "crema irland\u00e9s",
+                "chocolate amargo"
+            ],
+            "envase": "canastilla",
+            "toppings": [
+                "chocolate liquido",
+                "chispas de chocolate"
+            ],
+            "precio": 310
+        }
+    ]
+]

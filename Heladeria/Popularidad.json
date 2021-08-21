@@ -1,0 +1,25 @@
+{
+    "yogurt": {
+        "fresa": 0,
+        "vainilla": 1,
+        "chocolate": 7
+    },
+    "cremoso": {
+        "chocolate": 2,
+        "fresa": 0,
+        "vainilla": 0,
+        "rompope": 2,
+        "oreo con chocolate": 5
+    },
+    "cremoso especial": {
+        "amareto": 0,
+        "crema irland\u00e9s": 2,
+        "chocolate belga": 1,
+        "mora azul": 1,
+        "cajeta": 1,
+        "tequila": 1,
+        "menta con chocolate": 1,
+        "capuchino": 0,
+        "chocolate amargo": 3
+    }
+}
